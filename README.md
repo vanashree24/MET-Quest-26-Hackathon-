@@ -1,4 +1,4 @@
-# Furnace.exe — Decoding the Heat Gradient
+# Furnace.exe - Decoding the Heat Gradient
 ### 3D Steady-State Thermal Simulation of a Muffle Furnace using the Finite Difference Method (FDM)
 **Department of Materials Science and Engineering**
 
